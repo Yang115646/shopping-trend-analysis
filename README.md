@@ -115,7 +115,7 @@ shopping-trend-analysis/
 ![各品类销售额排名](ScreenShot_2026-06-18_165717_875.png)
 
 ### 评分 vs 消费金额
-![年龄分布](images/age_distribution.png)
+![年龄分布](ScreenShot_2026-06-18_165849_132.png)
 
 ### 各季节平均消费金额
-
+![年龄分布](ScreenShot_2026-06-18_165738_067.png)
