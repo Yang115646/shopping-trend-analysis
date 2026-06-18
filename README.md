@@ -112,7 +112,7 @@ shopping-trend-analysis/
    pip install pandas matplotlib seaborn
    jupyter notebook shopping_trend_analysis.ipynb
 ### 各品类销售额排名
-![各品类销售额排名](images/category_sales.png)
+![各品类销售额排名](ScreenShot_2026-06-18_165717_875.png)
 
 ### 评分 vs 消费金额
 ![年龄分布](images/age_distribution.png)
